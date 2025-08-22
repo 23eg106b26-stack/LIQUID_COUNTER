@@ -14,8 +14,8 @@ font-family: 'Lobster', cursive;
 color: #000;
 }
 .navbar-light .navbar-toggler {
-color: white;
-border-color: white;
+color: #000;
+border-color: #000;
 }
 .navbar-light .navbar-toggler-icon {
 background-image: url("data:image/svgxml;charset=utf8,%3CsvgviewBox='0 0 30 30'xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='white' stroke-width='2'stroke-linecap='round'stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E")
@@ -23,7 +23,7 @@ background-image: url("data:image/svgxml;charset=utf8,%3CsvgviewBox='0 0 30 30'x
 .navbar-light .navbar-nav .nav-link,
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
-color: white;
+color: #000;
 }
 .card {
 background-color: #469ea8;
@@ -60,10 +60,10 @@ color: #fff;
 h4 small {
 font-size: 60%;
 line-height: 200%;
-color: #aaa;
+color: #555;
 }
 h1 small {
-color: #aaa;
+color: #555;
 }
 .address {
 margin-bottom: 0.5rem;
@@ -75,13 +75,13 @@ p {
 margin-bottom: 0.65rem;
 }
 a {
-color: rgba(255, 255, 255, 0.8)
+color: rgba(0, 0, 0, 0.8)
 }
 a:hover {
-color:#fff
+color:#000;
 }
 body {
 font-family: "Cabin", Arial, sans-serif;
-color: #fff;
+color: #000;
 background-color: #ffdac1;
 }
